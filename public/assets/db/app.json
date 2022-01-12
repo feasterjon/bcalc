@@ -1,0 +1,151 @@
+{
+
+	"apps": [
+		{
+			"id": 1,
+			"name": "",
+			"description": "",
+			"version": "1.0",
+			"data": "",
+			"author": "Bit Designer",
+			"author_url": "http://bitdesigner.com"
+		}
+	],
+	
+	"pages": [
+		{
+			"id": 1,
+			"name": "Budget Calculator",
+			"slug": "index",
+			"app_id": 1
+		},
+		{
+			"id": 2,
+			"name": "Secondary Page",
+			"slug": "secondary",
+			"app_id": 1
+		},
+		{
+			"id": 3,
+			"name": "Tertiary Page",
+			"slug": "tertiary",
+			"app_id": 1
+		}
+	]
+	
+	"items": [
+		{
+			"id": 1,
+			"name": "Net Income",
+			"value": 0.00,
+			"percent": 100,
+			"slug": "income-net",
+			"page_id": 1
+		},
+		{
+			"id": 2,
+			"name": "Offerings",
+			"value": 0.00,
+			"percent": 10,
+			"slug": "offerings",
+			"page_id": 1
+		},
+		{
+			"id": 3,
+			"name": "Estimated Taxes",
+			"value": 0.00,
+			"percent": 20,
+			"slug": "taxes",
+			"page_id": 1
+		},
+		{
+			"id": 4,
+			"name": "Miscellaneous",
+			"value": 0.00,
+			"percent": 0,
+			"slug": "deductions-misc",
+			"page_id": 1
+		},
+		{
+			"id": 5,
+			"name": "Income (Net)",
+			"value": 0.00,
+			"percent": 100,
+			"slug": "income-net",
+			"page_id": 1
+		},
+		{
+			"id": 6,
+			"name": "Housing",
+			"value": 0.00,
+			"percent": 35,
+			"slug": "housing",
+			"page_id": 1
+		},
+		{
+			"id": 7,
+			"name": "Utilities",
+			"value": 0.00,
+			"percent": 8,
+			"slug": "utilities",
+			"page_id": 1
+		},
+		{
+			"id": 8,
+			"name": "Food",
+			"value": 0.00,
+			"percent": 10,
+			"slug": "food",
+			"page_id": 1
+		},
+		{
+			"id": 9,
+			"name": "Transport",
+			"value": 0.00,
+			"percent": 15,
+			"slug": "transport",
+			"page_id": 1
+		},
+		{
+			"id": 10,
+			"name": "Clothing",
+			"value": 0.00,
+			"percent": 4,
+			"slug": "clothing",
+			"page_id": 1
+		},
+		{
+			"id": 11,
+			"name": "Personal",
+			"value": 0.00,
+			"percent": 5,
+			"slug": "personal",
+			"page_id": 1
+		},
+		{
+			"id": 12,
+			"name": "Savings",
+			"value": 0.00,
+			"percent": 5,
+			"slug": "savings",
+			"page_id": 1
+		},
+		{
+			"id": 13,
+			"name": "Debt",
+			"value": 0.00,
+			"percent": 10,
+			"slug": "debt",
+			"page_id": 1
+		},
+		{
+			"id": 14,
+			"name": "Medical",
+			"value": 0.00,
+			"percent": 8,
+			"slug": "medical",
+			"page_id": 1
+		}
+	]
+	
+}

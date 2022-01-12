@@ -1,0 +1,19 @@
+{
+  "name": "Budget Calculator",
+  "version": "4.9.0",
+  "description": "A simple navigator to access apps",
+  "homepage": "https://gitlab.com/jonfeaster/bcalc",
+  "author": "Jonathan Feaster (https://jonfeaster.com)",
+  "private": "true",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/jonfeaster/bcalc.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/jonfeaster/bcalc/issues"
+  },
+  "devDependencies": {}
+}
